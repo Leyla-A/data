@@ -1,0 +1,883 @@
+,year,districtCode,districtName,neighborhoodCode,neighborhoodName,sex,count
+0,2015,1,Ciutat Vella,1,el Raval,Male,1541
+1,2015,1,Ciutat Vella,2,el Barri Gòtic,Male,435
+2,2015,1,Ciutat Vella,3,la Barceloneta,Male,326
+3,2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,564
+4,2015,2,Eixample,5,el Fort Pienc,Male,519
+5,2015,2,Eixample,6,la Sagrada Família,Male,817
+6,2015,2,Eixample,7,la Dreta de l'Eixample,Male,673
+7,2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,675
+8,2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,941
+9,2015,2,Eixample,10,Sant Antoni,Male,726
+10,2015,3,Sants-Montjuïc,11,el Poble Sec,Male,968
+11,2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,19
+12,2015,3,Sants-Montjuïc,13,la Marina de Port,Male,546
+13,2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,209
+14,2015,3,Sants-Montjuïc,15,Hostafrancs,Male,356
+15,2015,3,Sants-Montjuïc,16,la Bordeta,Male,366
+16,2015,3,Sants-Montjuïc,17,Sants - Badal,Male,568
+17,2015,3,Sants-Montjuïc,18,Sants,Male,918
+18,2015,4,Les Corts,19,les Corts,Male,675
+19,2015,4,Les Corts,20,la Maternitat i Sant Ramon,Male,400
+20,2015,4,Les Corts,21,Pedralbes,Male,208
+21,2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,88
+22,2015,5,Sarrià-Sant Gervasi,23,Sarrià,Male,349
+23,2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,191
+24,2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,366
+25,2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,586
+26,2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,408
+27,2015,6,Gràcia,28,Vallcarca i els Penitents,Male,220
+28,2015,6,Gràcia,29,el Coll,Male,119
+29,2015,6,Gràcia,30,la Salut,Male,167
+30,2015,6,Gràcia,31,la Vila de Gràcia,Male,782
+31,2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,464
+32,2015,7,Horta-Guinardó,33,el Baix Guinardó,Male,367
+33,2015,7,Horta-Guinardó,34,Can Baró,Male,128
+34,2015,7,Horta-Guinardó,35,el Guinardó,Male,487
+35,2015,7,Horta-Guinardó,36,la Font d'en Fargues,Male,91
+36,2015,7,Horta-Guinardó,37,el Carmel,Male,449
+37,2015,7,Horta-Guinardó,38,la Teixonera,Male,158
+38,2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,117
+39,2015,7,Horta-Guinardó,40,Montbau,Male,61
+40,2015,7,Horta-Guinardó,41,la Vall d'Hebron,Male,55
+41,2015,7,Horta-Guinardó,42,la Clota,Male,11
+42,2015,7,Horta-Guinardó,43,Horta,Male,319
+43,2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,322
+44,2015,8,Nou Barris,45,Porta,Male,302
+45,2015,8,Nou Barris,46,el Turó de la Peira,Male,223
+46,2015,8,Nou Barris,47,Can Peguera,Male,26
+47,2015,8,Nou Barris,48,la Guineueta,Male,187
+48,2015,8,Nou Barris,49,Canyelles,Male,72
+49,2015,8,Nou Barris,50,les Roquetes,Male,287
+50,2015,8,Nou Barris,51,Verdun,Male,203
+51,2015,8,Nou Barris,52,la Prosperitat,Male,379
+52,2015,8,Nou Barris,53,la Trinitat Nova,Male,142
+53,2015,8,Nou Barris,54,Torre Baró,Male,47
+54,2015,8,Nou Barris,55,Ciutat Meridiana,Male,286
+55,2015,8,Nou Barris,56,Vallbona,Male,24
+56,2015,9,Sant Andreu,57,la Trinitat Vella,Male,296
+57,2015,9,Sant Andreu,58,Baró de Viver,Male,36
+58,2015,9,Sant Andreu,59,el Bon Pastor,Male,245
+59,2015,9,Sant Andreu,60,Sant Andreu,Male,706
+60,2015,9,Sant Andreu,61,la Sagrera,Male,364
+61,2015,9,Sant Andreu,62,el Congrés i els Indians,Male,200
+62,2015,9,Sant Andreu,63,Navas,Male,319
+63,2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,623
+64,2015,10,Sant Martí,65,el Clot,Male,405
+65,2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,271
+66,2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,128
+67,2015,10,Sant Martí,68,el Poblenou,Male,477
+68,2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,241
+69,2015,10,Sant Martí,70,el Besòs i el Maresme,Male,709
+70,2015,10,Sant Martí,71,Provençals del Poblenou,Male,301
+71,2015,10,Sant Martí,72,Sant Martí de Provençals,Male,335
+72,2015,10,Sant Martí,73,la Verneda i la Pau,Male,437
+73,2015,99,No consta,99,No consta,Male,2
+74,2015,1,Ciutat Vella,1,el Raval,Female,993
+75,2015,1,Ciutat Vella,2,el Barri Gòtic,Female,337
+76,2015,1,Ciutat Vella,3,la Barceloneta,Female,316
+77,2015,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,520
+78,2015,2,Eixample,5,el Fort Pienc,Female,533
+79,2015,2,Eixample,6,la Sagrada Família,Female,866
+80,2015,2,Eixample,7,la Dreta de l'Eixample,Female,807
+81,2015,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,702
+82,2015,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,995
+83,2015,2,Eixample,10,Sant Antoni,Female,645
+84,2015,3,Sants-Montjuïc,11,el Poble Sec,Female,902
+85,2015,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,20
+86,2015,3,Sants-Montjuïc,13,la Marina de Port,Female,502
+87,2015,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,226
+88,2015,3,Sants-Montjuïc,15,Hostafrancs,Female,324
+89,2015,3,Sants-Montjuïc,16,la Bordeta,Female,369
+90,2015,3,Sants-Montjuïc,17,Sants - Badal,Female,569
+91,2015,3,Sants-Montjuïc,18,Sants,Female,896
+92,2015,4,Les Corts,19,les Corts,Female,737
+93,2015,4,Les Corts,20,la Maternitat i Sant Ramon,Female,453
+94,2015,4,Les Corts,21,Pedralbes,Female,193
+95,2015,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,90
+96,2015,5,Sarrià-Sant Gervasi,23,Sarrià,Female,368
+97,2015,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,245
+98,2015,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,407
+99,2015,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,721
+100,2015,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,429
+101,2015,6,Gràcia,28,Vallcarca i els Penitents,Female,201
+102,2015,6,Gràcia,29,el Coll,Female,108
+103,2015,6,Gràcia,30,la Salut,Female,204
+104,2015,6,Gràcia,31,la Vila de Gràcia,Female,931
+105,2015,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,471
+106,2015,7,Horta-Guinardó,33,el Baix Guinardó,Female,394
+107,2015,7,Horta-Guinardó,34,Can Baró,Female,133
+108,2015,7,Horta-Guinardó,35,el Guinardó,Female,579
+109,2015,7,Horta-Guinardó,36,la Font d'en Fargues,Female,105
+110,2015,7,Horta-Guinardó,37,el Carmel,Female,507
+111,2015,7,Horta-Guinardó,38,la Teixonera,Female,159
+112,2015,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,123
+113,2015,7,Horta-Guinardó,40,Montbau,Female,60
+114,2015,7,Horta-Guinardó,41,la Vall d'Hebron,Female,53
+115,2015,7,Horta-Guinardó,42,la Clota,Female,9
+116,2015,7,Horta-Guinardó,43,Horta,Female,293
+117,2015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,344
+118,2015,8,Nou Barris,45,Porta,Female,312
+119,2015,8,Nou Barris,46,el Turó de la Peira,Female,261
+120,2015,8,Nou Barris,47,Can Peguera,Female,27
+121,2015,8,Nou Barris,48,la Guineueta,Female,196
+122,2015,8,Nou Barris,49,Canyelles,Female,89
+123,2015,8,Nou Barris,50,les Roquetes,Female,303
+124,2015,8,Nou Barris,51,Verdun,Female,206
+125,2015,8,Nou Barris,52,la Prosperitat,Female,393
+126,2015,8,Nou Barris,53,la Trinitat Nova,Female,136
+127,2015,8,Nou Barris,54,Torre Baró,Female,43
+128,2015,8,Nou Barris,55,Ciutat Meridiana,Female,262
+129,2015,8,Nou Barris,56,Vallbona,Female,21
+130,2015,9,Sant Andreu,57,la Trinitat Vella,Female,200
+131,2015,9,Sant Andreu,58,Baró de Viver,Female,65
+132,2015,9,Sant Andreu,59,el Bon Pastor,Female,184
+133,2015,9,Sant Andreu,60,Sant Andreu,Female,702
+134,2015,9,Sant Andreu,61,la Sagrera,Female,419
+135,2015,9,Sant Andreu,62,el Congrés i els Indians,Female,222
+136,2015,9,Sant Andreu,63,Navas,Female,320
+137,2015,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,654
+138,2015,10,Sant Martí,65,el Clot,Female,437
+139,2015,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,263
+140,2015,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,132
+141,2015,10,Sant Martí,68,el Poblenou,Female,515
+142,2015,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,216
+143,2015,10,Sant Martí,70,el Besòs i el Maresme,Female,561
+144,2015,10,Sant Martí,71,Provençals del Poblenou,Female,269
+145,2015,10,Sant Martí,72,Sant Martí de Provençals,Female,363
+146,2015,10,Sant Martí,73,la Verneda i la Pau,Female,469
+147,2015,99,No consta,99,No consta,Female,2
+0,2016,1,Ciutat Vella,1,el Raval,Male,1268
+1,2016,1,Ciutat Vella,2,el Barri Gòtic,Male,428
+2,2016,1,Ciutat Vella,3,la Barceloneta,Male,352
+3,2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,498
+4,2016,2,Eixample,5,el Fort Pienc,Male,482
+5,2016,2,Eixample,6,la Sagrada Família,Male,771
+6,2016,2,Eixample,7,la Dreta de l'Eixample,Male,657
+7,2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,621
+8,2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,859
+9,2016,2,Eixample,10,Sant Antoni,Male,576
+10,2016,3,Sants-Montjuïc,11,el Poble Sec,Male,833
+11,2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,22
+12,2016,3,Sants-Montjuïc,13,la Marina de Port,Male,513
+13,2016,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,193
+14,2016,3,Sants-Montjuïc,15,Hostafrancs,Male,329
+15,2016,3,Sants-Montjuïc,16,la Bordeta,Male,309
+16,2016,3,Sants-Montjuïc,17,Sants - Badal,Male,499
+17,2016,3,Sants-Montjuïc,18,Sants,Male,754
+18,2016,4,Les Corts,19,les Corts,Male,666
+19,2016,4,Les Corts,20,la Maternitat i Sant Ramon,Male,372
+20,2016,4,Les Corts,21,Pedralbes,Male,180
+21,2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,67
+22,2016,5,Sarrià-Sant Gervasi,23,Sarrià,Male,345
+23,2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,191
+24,2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,309
+25,2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,565
+26,2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,423
+27,2016,6,Gràcia,28,Vallcarca i els Penitents,Male,220
+28,2016,6,Gràcia,29,el Coll,Male,117
+29,2016,6,Gràcia,30,la Salut,Male,171
+30,2016,6,Gràcia,31,la Vila de Gràcia,Male,767
+31,2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,427
+32,2016,7,Horta-Guinardó,33,el Baix Guinardó,Male,349
+33,2016,7,Horta-Guinardó,34,Can Baró,Male,118
+34,2016,7,Horta-Guinardó,35,el Guinardó,Male,449
+35,2016,7,Horta-Guinardó,36,la Font d'en Fargues,Male,109
+36,2016,7,Horta-Guinardó,37,el Carmel,Male,422
+37,2016,7,Horta-Guinardó,38,la Teixonera,Male,149
+38,2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,83
+39,2016,7,Horta-Guinardó,40,Montbau,Male,60
+40,2016,7,Horta-Guinardó,41,la Vall d'Hebron,Male,58
+41,2016,7,Horta-Guinardó,42,la Clota,Male,5
+42,2016,7,Horta-Guinardó,43,Horta,Male,283
+43,2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,287
+44,2016,8,Nou Barris,45,Porta,Male,308
+45,2016,8,Nou Barris,46,el Turó de la Peira,Male,219
+46,2016,8,Nou Barris,47,Can Peguera,Male,27
+47,2016,8,Nou Barris,48,la Guineueta,Male,115
+48,2016,8,Nou Barris,49,Canyelles,Male,83
+49,2016,8,Nou Barris,50,les Roquetes,Male,221
+50,2016,8,Nou Barris,51,Verdun,Male,187
+51,2016,8,Nou Barris,52,la Prosperitat,Male,363
+52,2016,8,Nou Barris,53,la Trinitat Nova,Male,118
+53,2016,8,Nou Barris,54,Torre Baró,Male,42
+54,2016,8,Nou Barris,55,Ciutat Meridiana,Male,204
+55,2016,8,Nou Barris,56,Vallbona,Male,29
+56,2016,9,Sant Andreu,57,la Trinitat Vella,Male,227
+57,2016,9,Sant Andreu,58,Baró de Viver,Male,50
+58,2016,9,Sant Andreu,59,el Bon Pastor,Male,220
+59,2016,9,Sant Andreu,60,Sant Andreu,Male,661
+60,2016,9,Sant Andreu,61,la Sagrera,Male,358
+61,2016,9,Sant Andreu,62,el Congrés i els Indians,Male,181
+62,2016,9,Sant Andreu,63,Navas,Male,313
+63,2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,589
+64,2016,10,Sant Martí,65,el Clot,Male,373
+65,2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,226
+66,2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,116
+67,2016,10,Sant Martí,68,el Poblenou,Male,473
+68,2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,192
+69,2016,10,Sant Martí,70,el Besòs i el Maresme,Male,598
+70,2016,10,Sant Martí,71,Provençals del Poblenou,Male,313
+71,2016,10,Sant Martí,72,Sant Martí de Provençals,Male,360
+72,2016,10,Sant Martí,73,la Verneda i la Pau,Male,384
+73,2016,99,No consta,99,No consta,Male,5
+74,2016,1,Ciutat Vella,1,el Raval,Female,905
+75,2016,1,Ciutat Vella,2,el Barri Gòtic,Female,337
+76,2016,1,Ciutat Vella,3,la Barceloneta,Female,294
+77,2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,428
+78,2016,2,Eixample,5,el Fort Pienc,Female,500
+79,2016,2,Eixample,6,la Sagrada Família,Female,866
+80,2016,2,Eixample,7,la Dreta de l'Eixample,Female,764
+81,2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,679
+82,2016,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,950
+83,2016,2,Eixample,10,Sant Antoni,Female,555
+84,2016,3,Sants-Montjuïc,11,el Poble Sec,Female,772
+85,2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,26
+86,2016,3,Sants-Montjuïc,13,la Marina de Port,Female,510
+87,2016,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,199
+88,2016,3,Sants-Montjuïc,15,Hostafrancs,Female,323
+89,2016,3,Sants-Montjuïc,16,la Bordeta,Female,329
+90,2016,3,Sants-Montjuïc,17,Sants - Badal,Female,544
+91,2016,3,Sants-Montjuïc,18,Sants,Female,770
+92,2016,4,Les Corts,19,les Corts,Female,660
+93,2016,4,Les Corts,20,la Maternitat i Sant Ramon,Female,430
+94,2016,4,Les Corts,21,Pedralbes,Female,178
+95,2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,70
+96,2016,5,Sarrià-Sant Gervasi,23,Sarrià,Female,378
+97,2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,232
+98,2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,364
+99,2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,665
+100,2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,485
+101,2016,6,Gràcia,28,Vallcarca i els Penitents,Female,219
+102,2016,6,Gràcia,29,el Coll,Female,131
+103,2016,6,Gràcia,30,la Salut,Female,166
+104,2016,6,Gràcia,31,la Vila de Gràcia,Female,848
+105,2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,469
+106,2016,7,Horta-Guinardó,33,el Baix Guinardó,Female,365
+107,2016,7,Horta-Guinardó,34,Can Baró,Female,129
+108,2016,7,Horta-Guinardó,35,el Guinardó,Female,577
+109,2016,7,Horta-Guinardó,36,la Font d'en Fargues,Female,108
+110,2016,7,Horta-Guinardó,37,el Carmel,Female,457
+111,2016,7,Horta-Guinardó,38,la Teixonera,Female,175
+112,2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,83
+113,2016,7,Horta-Guinardó,40,Montbau,Female,64
+114,2016,7,Horta-Guinardó,41,la Vall d'Hebron,Female,55
+115,2016,7,Horta-Guinardó,42,la Clota,Female,3
+116,2016,7,Horta-Guinardó,43,Horta,Female,317
+117,2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,361
+118,2016,8,Nou Barris,45,Porta,Female,352
+119,2016,8,Nou Barris,46,el Turó de la Peira,Female,231
+120,2016,8,Nou Barris,47,Can Peguera,Female,27
+121,2016,8,Nou Barris,48,la Guineueta,Female,143
+122,2016,8,Nou Barris,49,Canyelles,Female,79
+123,2016,8,Nou Barris,50,les Roquetes,Female,303
+124,2016,8,Nou Barris,51,Verdun,Female,205
+125,2016,8,Nou Barris,52,la Prosperitat,Female,367
+126,2016,8,Nou Barris,53,la Trinitat Nova,Female,132
+127,2016,8,Nou Barris,54,Torre Baró,Female,35
+128,2016,8,Nou Barris,55,Ciutat Meridiana,Female,188
+129,2016,8,Nou Barris,56,Vallbona,Female,22
+130,2016,9,Sant Andreu,57,la Trinitat Vella,Female,170
+131,2016,9,Sant Andreu,58,Baró de Viver,Female,40
+132,2016,9,Sant Andreu,59,el Bon Pastor,Female,219
+133,2016,9,Sant Andreu,60,Sant Andreu,Female,708
+134,2016,9,Sant Andreu,61,la Sagrera,Female,388
+135,2016,9,Sant Andreu,62,el Congrés i els Indians,Female,190
+136,2016,9,Sant Andreu,63,Navas,Female,346
+137,2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,680
+138,2016,10,Sant Martí,65,el Clot,Female,379
+139,2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,236
+140,2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,104
+141,2016,10,Sant Martí,68,el Poblenou,Female,483
+142,2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,193
+143,2016,10,Sant Martí,70,el Besòs i el Maresme,Female,484
+144,2016,10,Sant Martí,71,Provençals del Poblenou,Female,320
+145,2016,10,Sant Martí,72,Sant Martí de Provençals,Female,403
+146,2016,10,Sant Martí,73,la Verneda i la Pau,Female,396
+147,2016,99,No consta,99,No consta,Female,0
+0,2017,1,Ciutat Vella,1,el Raval,Male,1195
+1,2017,1,Ciutat Vella,2,el Barri Gòtic,Male,427
+2,2017,1,Ciutat Vella,3,la Barceloneta,Male,361
+3,2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,502
+4,2017,2,Eixample,5,el Fort Pienc,Male,495
+5,2017,2,Eixample,6,la Sagrada Família,Male,796
+6,2017,2,Eixample,7,la Dreta de l'Eixample,Male,666
+7,2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,702
+8,2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,925
+9,2017,2,Eixample,10,Sant Antoni,Male,632
+10,2017,3,Sants-Montjuïc,11,el Poble Sec,Male,887
+11,2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,22
+12,2017,3,Sants-Montjuïc,13,la Marina de Port,Male,516
+13,2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,193
+14,2017,3,Sants-Montjuïc,15,Hostafrancs,Male,319
+15,2017,3,Sants-Montjuïc,16,la Bordeta,Male,329
+16,2017,3,Sants-Montjuïc,17,Sants - Badal,Male,475
+17,2017,3,Sants-Montjuïc,18,Sants,Male,789
+18,2017,4,Les Corts,19,les Corts,Male,651
+19,2017,4,Les Corts,20,la Maternitat i Sant Ramon,Male,415
+20,2017,4,Les Corts,21,Pedralbes,Male,189
+21,2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,67
+22,2017,5,Sarrià-Sant Gervasi,23,Sarrià,Male,318
+23,2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,183
+24,2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,299
+25,2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,598
+26,2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,396
+27,2017,6,Gràcia,28,Vallcarca i els Penitents,Male,229
+28,2017,6,Gràcia,29,el Coll,Male,102
+29,2017,6,Gràcia,30,la Salut,Male,184
+30,2017,6,Gràcia,31,la Vila de Gràcia,Male,792
+31,2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,457
+32,2017,7,Horta-Guinardó,33,el Baix Guinardó,Male,371
+33,2017,7,Horta-Guinardó,34,Can Baró,Male,135
+34,2017,7,Horta-Guinardó,35,el Guinardó,Male,524
+35,2017,7,Horta-Guinardó,36,la Font d'en Fargues,Male,97
+36,2017,7,Horta-Guinardó,37,el Carmel,Male,461
+37,2017,7,Horta-Guinardó,38,la Teixonera,Male,186
+38,2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,98
+39,2017,7,Horta-Guinardó,40,Montbau,Male,87
+40,2017,7,Horta-Guinardó,41,la Vall d'Hebron,Male,61
+41,2017,7,Horta-Guinardó,42,la Clota,Male,6
+42,2017,7,Horta-Guinardó,43,Horta,Male,329
+43,2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,336
+44,2017,8,Nou Barris,45,Porta,Male,369
+45,2017,8,Nou Barris,46,el Turó de la Peira,Male,221
+46,2017,8,Nou Barris,47,Can Peguera,Male,27
+47,2017,8,Nou Barris,48,la Guineueta,Male,156
+48,2017,8,Nou Barris,49,Canyelles,Male,60
+49,2017,8,Nou Barris,50,les Roquetes,Male,253
+50,2017,8,Nou Barris,51,Verdun,Male,203
+51,2017,8,Nou Barris,52,la Prosperitat,Male,342
+52,2017,8,Nou Barris,53,la Trinitat Nova,Male,156
+53,2017,8,Nou Barris,54,Torre Baró,Male,44
+54,2017,8,Nou Barris,55,Ciutat Meridiana,Male,230
+55,2017,8,Nou Barris,56,Vallbona,Male,28
+56,2017,9,Sant Andreu,57,la Trinitat Vella,Male,237
+57,2017,9,Sant Andreu,58,Baró de Viver,Male,43
+58,2017,9,Sant Andreu,59,el Bon Pastor,Male,215
+59,2017,9,Sant Andreu,60,Sant Andreu,Male,667
+60,2017,9,Sant Andreu,61,la Sagrera,Male,372
+61,2017,9,Sant Andreu,62,el Congrés i els Indians,Male,191
+62,2017,9,Sant Andreu,63,Navas,Male,300
+63,2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,595
+64,2017,10,Sant Martí,65,el Clot,Male,373
+65,2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,210
+66,2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,140
+67,2017,10,Sant Martí,68,el Poblenou,Male,513
+68,2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,263
+69,2017,10,Sant Martí,70,el Besòs i el Maresme,Male,519
+70,2017,10,Sant Martí,71,Provençals del Poblenou,Male,311
+71,2017,10,Sant Martí,72,Sant Martí de Provençals,Male,357
+72,2017,10,Sant Martí,73,la Verneda i la Pau,Male,389
+73,2017,99,No consta,99,No consta,Male,2
+74,2017,1,Ciutat Vella,1,el Raval,Female,910
+75,2017,1,Ciutat Vella,2,el Barri Gòtic,Female,353
+76,2017,1,Ciutat Vella,3,la Barceloneta,Female,353
+77,2017,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,528
+78,2017,2,Eixample,5,el Fort Pienc,Female,586
+79,2017,2,Eixample,6,la Sagrada Família,Female,890
+80,2017,2,Eixample,7,la Dreta de l'Eixample,Female,803
+81,2017,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,672
+82,2017,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,1034
+83,2017,2,Eixample,10,Sant Antoni,Female,682
+84,2017,3,Sants-Montjuïc,11,el Poble Sec,Female,790
+85,2017,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,20
+86,2017,3,Sants-Montjuïc,13,la Marina de Port,Female,511
+87,2017,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,200
+88,2017,3,Sants-Montjuïc,15,Hostafrancs,Female,330
+89,2017,3,Sants-Montjuïc,16,la Bordeta,Female,353
+90,2017,3,Sants-Montjuïc,17,Sants - Badal,Female,539
+91,2017,3,Sants-Montjuïc,18,Sants,Female,863
+92,2017,4,Les Corts,19,les Corts,Female,728
+93,2017,4,Les Corts,20,la Maternitat i Sant Ramon,Female,484
+94,2017,4,Les Corts,21,Pedralbes,Female,192
+95,2017,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,76
+96,2017,5,Sarrià-Sant Gervasi,23,Sarrià,Female,379
+97,2017,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,222
+98,2017,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,334
+99,2017,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,680
+100,2017,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,485
+101,2017,6,Gràcia,28,Vallcarca i els Penitents,Female,261
+102,2017,6,Gràcia,29,el Coll,Female,105
+103,2017,6,Gràcia,30,la Salut,Female,202
+104,2017,6,Gràcia,31,la Vila de Gràcia,Female,933
+105,2017,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,542
+106,2017,7,Horta-Guinardó,33,el Baix Guinardó,Female,385
+107,2017,7,Horta-Guinardó,34,Can Baró,Female,155
+108,2017,7,Horta-Guinardó,35,el Guinardó,Female,561
+109,2017,7,Horta-Guinardó,36,la Font d'en Fargues,Female,100
+110,2017,7,Horta-Guinardó,37,el Carmel,Female,500
+111,2017,7,Horta-Guinardó,38,la Teixonera,Female,189
+112,2017,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,111
+113,2017,7,Horta-Guinardó,40,Montbau,Female,82
+114,2017,7,Horta-Guinardó,41,la Vall d'Hebron,Female,59
+115,2017,7,Horta-Guinardó,42,la Clota,Female,9
+116,2017,7,Horta-Guinardó,43,Horta,Female,354
+117,2017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,372
+118,2017,8,Nou Barris,45,Porta,Female,371
+119,2017,8,Nou Barris,46,el Turó de la Peira,Female,263
+120,2017,8,Nou Barris,47,Can Peguera,Female,28
+121,2017,8,Nou Barris,48,la Guineueta,Female,207
+122,2017,8,Nou Barris,49,Canyelles,Female,55
+123,2017,8,Nou Barris,50,les Roquetes,Female,302
+124,2017,8,Nou Barris,51,Verdun,Female,201
+125,2017,8,Nou Barris,52,la Prosperitat,Female,379
+126,2017,8,Nou Barris,53,la Trinitat Nova,Female,167
+127,2017,8,Nou Barris,54,Torre Baró,Female,51
+128,2017,8,Nou Barris,55,Ciutat Meridiana,Female,204
+129,2017,8,Nou Barris,56,Vallbona,Female,36
+130,2017,9,Sant Andreu,57,la Trinitat Vella,Female,223
+131,2017,9,Sant Andreu,58,Baró de Viver,Female,46
+132,2017,9,Sant Andreu,59,el Bon Pastor,Female,192
+133,2017,9,Sant Andreu,60,Sant Andreu,Female,739
+134,2017,9,Sant Andreu,61,la Sagrera,Female,461
+135,2017,9,Sant Andreu,62,el Congrés i els Indians,Female,205
+136,2017,9,Sant Andreu,63,Navas,Female,323
+137,2017,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,675
+138,2017,10,Sant Martí,65,el Clot,Female,374
+139,2017,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,226
+140,2017,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,128
+141,2017,10,Sant Martí,68,el Poblenou,Female,506
+142,2017,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,223
+143,2017,10,Sant Martí,70,el Besòs i el Maresme,Female,470
+144,2017,10,Sant Martí,71,Provençals del Poblenou,Female,306
+145,2017,10,Sant Martí,72,Sant Martí de Provençals,Female,363
+146,2017,10,Sant Martí,73,la Verneda i la Pau,Female,421
+147,2017,99,No consta,99,No consta,Female,2
+0,2018,1,Ciutat Vella,1,el Raval,Male,1279
+1,2018,1,Ciutat Vella,2,el Barri Gòtic,Male,527
+2,2018,1,Ciutat Vella,3,la Barceloneta,Male,364
+3,2018,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,551
+4,2018,2,Eixample,5,el Fort Pienc,Male,590
+5,2018,2,Eixample,6,la Sagrada Família,Male,913
+6,2018,2,Eixample,7,la Dreta de l'Eixample,Male,712
+7,2018,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,807
+8,2018,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,999
+9,2018,2,Eixample,10,Sant Antoni,Male,706
+10,2018,3,Sants-Montjuïc,11,el Poble Sec,Male,931
+11,2018,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,13
+12,2018,3,Sants-Montjuïc,13,la Marina de Port,Male,552
+13,2018,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,214
+14,2018,3,Sants-Montjuïc,15,Hostafrancs,Male,366
+15,2018,3,Sants-Montjuïc,16,la Bordeta,Male,380
+16,2018,3,Sants-Montjuïc,17,Sants - Badal,Male,503
+17,2018,3,Sants-Montjuïc,18,Sants,Male,1022
+18,2018,4,Les Corts,19,les Corts,Male,751
+19,2018,4,Les Corts,20,la Maternitat i Sant Ramon,Male,518
+20,2018,4,Les Corts,21,Pedralbes,Male,222
+21,2018,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,86
+22,2018,5,Sarrià-Sant Gervasi,23,Sarrià,Male,429
+23,2018,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,259
+24,2018,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,369
+25,2018,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,661
+26,2018,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,467
+27,2018,6,Gràcia,28,Vallcarca i els Penitents,Male,220
+28,2018,6,Gràcia,29,el Coll,Male,108
+29,2018,6,Gràcia,30,la Salut,Male,201
+30,2018,6,Gràcia,31,la Vila de Gràcia,Male,815
+31,2018,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,510
+32,2018,7,Horta-Guinardó,33,el Baix Guinardó,Male,418
+33,2018,7,Horta-Guinardó,34,Can Baró,Male,155
+34,2018,7,Horta-Guinardó,35,el Guinardó,Male,603
+35,2018,7,Horta-Guinardó,36,la Font d'en Fargues,Male,116
+36,2018,7,Horta-Guinardó,37,el Carmel,Male,506
+37,2018,7,Horta-Guinardó,38,la Teixonera,Male,196
+38,2018,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,137
+39,2018,7,Horta-Guinardó,40,Montbau,Male,75
+40,2018,7,Horta-Guinardó,41,la Vall d'Hebron,Male,65
+41,2018,7,Horta-Guinardó,42,la Clota,Male,7
+42,2018,7,Horta-Guinardó,43,Horta,Male,459
+43,2018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,366
+44,2018,8,Nou Barris,45,Porta,Male,415
+45,2018,8,Nou Barris,46,el Turó de la Peira,Male,279
+46,2018,8,Nou Barris,47,Can Peguera,Male,18
+47,2018,8,Nou Barris,48,la Guineueta,Male,186
+48,2018,8,Nou Barris,49,Canyelles,Male,69
+49,2018,8,Nou Barris,50,les Roquetes,Male,255
+50,2018,8,Nou Barris,51,Verdun,Male,242
+51,2018,8,Nou Barris,52,la Prosperitat,Male,357
+52,2018,8,Nou Barris,53,la Trinitat Nova,Male,167
+53,2018,8,Nou Barris,54,Torre Baró,Male,54
+54,2018,8,Nou Barris,55,Ciutat Meridiana,Male,248
+55,2018,8,Nou Barris,56,Vallbona,Male,20
+56,2018,9,Sant Andreu,57,la Trinitat Vella,Male,276
+57,2018,9,Sant Andreu,58,Baró de Viver,Male,42
+58,2018,9,Sant Andreu,59,el Bon Pastor,Male,258
+59,2018,9,Sant Andreu,60,Sant Andreu,Male,758
+60,2018,9,Sant Andreu,61,la Sagrera,Male,445
+61,2018,9,Sant Andreu,62,el Congrés i els Indians,Male,210
+62,2018,9,Sant Andreu,63,Navas,Male,377
+63,2018,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,677
+64,2018,10,Sant Martí,65,el Clot,Male,418
+65,2018,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,262
+66,2018,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,129
+67,2018,10,Sant Martí,68,el Poblenou,Male,562
+68,2018,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,261
+69,2018,10,Sant Martí,70,el Besòs i el Maresme,Male,622
+70,2018,10,Sant Martí,71,Provençals del Poblenou,Male,339
+71,2018,10,Sant Martí,72,Sant Martí de Provençals,Male,412
+72,2018,10,Sant Martí,73,la Verneda i la Pau,Male,424
+73,2018,1,Ciutat Vella,1,el Raval,Female,1027
+74,2018,1,Ciutat Vella,2,el Barri Gòtic,Female,469
+75,2018,1,Ciutat Vella,3,la Barceloneta,Female,333
+76,2018,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,520
+77,2018,2,Eixample,5,el Fort Pienc,Female,656
+78,2018,2,Eixample,6,la Sagrada Família,Female,1093
+79,2018,2,Eixample,7,la Dreta de l'Eixample,Female,772
+80,2018,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,885
+81,2018,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,1123
+82,2018,2,Eixample,10,Sant Antoni,Female,719
+83,2018,3,Sants-Montjuïc,11,el Poble Sec,Female,885
+84,2018,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,18
+85,2018,3,Sants-Montjuïc,13,la Marina de Port,Female,576
+86,2018,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,218
+87,2018,3,Sants-Montjuïc,15,Hostafrancs,Female,424
+88,2018,3,Sants-Montjuïc,16,la Bordeta,Female,371
+89,2018,3,Sants-Montjuïc,17,Sants - Badal,Female,571
+90,2018,3,Sants-Montjuïc,18,Sants,Female,1017
+91,2018,4,Les Corts,19,les Corts,Female,791
+92,2018,4,Les Corts,20,la Maternitat i Sant Ramon,Female,549
+93,2018,4,Les Corts,21,Pedralbes,Female,215
+94,2018,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,80
+95,2018,5,Sarrià-Sant Gervasi,23,Sarrià,Female,412
+96,2018,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,267
+97,2018,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,409
+98,2018,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,814
+99,2018,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,529
+100,2018,6,Gràcia,28,Vallcarca i els Penitents,Female,278
+101,2018,6,Gràcia,29,el Coll,Female,136
+102,2018,6,Gràcia,30,la Salut,Female,216
+103,2018,6,Gràcia,31,la Vila de Gràcia,Female,975
+104,2018,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,607
+105,2018,7,Horta-Guinardó,33,el Baix Guinardó,Female,422
+106,2018,7,Horta-Guinardó,34,Can Baró,Female,159
+107,2018,7,Horta-Guinardó,35,el Guinardó,Female,700
+108,2018,7,Horta-Guinardó,36,la Font d'en Fargues,Female,113
+109,2018,7,Horta-Guinardó,37,el Carmel,Female,587
+110,2018,7,Horta-Guinardó,38,la Teixonera,Female,209
+111,2018,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,117
+112,2018,7,Horta-Guinardó,40,Montbau,Female,89
+113,2018,7,Horta-Guinardó,41,la Vall d'Hebron,Female,65
+114,2018,7,Horta-Guinardó,42,la Clota,Female,7
+115,2018,7,Horta-Guinardó,43,Horta,Female,488
+116,2018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,398
+117,2018,8,Nou Barris,45,Porta,Female,477
+118,2018,8,Nou Barris,46,el Turó de la Peira,Female,317
+119,2018,8,Nou Barris,47,Can Peguera,Female,20
+120,2018,8,Nou Barris,48,la Guineueta,Female,189
+121,2018,8,Nou Barris,49,Canyelles,Female,82
+122,2018,8,Nou Barris,50,les Roquetes,Female,320
+123,2018,8,Nou Barris,51,Verdun,Female,259
+124,2018,8,Nou Barris,52,la Prosperitat,Female,448
+125,2018,8,Nou Barris,53,la Trinitat Nova,Female,147
+126,2018,8,Nou Barris,54,Torre Baró,Female,41
+127,2018,8,Nou Barris,55,Ciutat Meridiana,Female,268
+128,2018,8,Nou Barris,56,Vallbona,Female,20
+129,2018,9,Sant Andreu,57,la Trinitat Vella,Female,209
+130,2018,9,Sant Andreu,58,Baró de Viver,Female,40
+131,2018,9,Sant Andreu,59,el Bon Pastor,Female,270
+132,2018,9,Sant Andreu,60,Sant Andreu,Female,828
+133,2018,9,Sant Andreu,61,la Sagrera,Female,472
+134,2018,9,Sant Andreu,62,el Congrés i els Indians,Female,240
+135,2018,9,Sant Andreu,63,Navas,Female,362
+136,2018,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,694
+137,2018,10,Sant Martí,65,el Clot,Female,468
+138,2018,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,266
+139,2018,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,129
+140,2018,10,Sant Martí,68,el Poblenou,Female,608
+141,2018,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,253
+142,2018,10,Sant Martí,70,el Besòs i el Maresme,Female,549
+143,2018,10,Sant Martí,71,Provençals del Poblenou,Female,375
+144,2018,10,Sant Martí,72,Sant Martí de Provençals,Female,421
+145,2018,10,Sant Martí,73,la Verneda i la Pau,Female,464
+0,2019,1,Ciutat Vella,1,el Raval,Female,893
+1,2019,1,Ciutat Vella,2,el Barri Gòtic,Female,533
+2,2019,1,Ciutat Vella,3,la Barceloneta,Female,346
+3,2019,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,527
+4,2019,2,Eixample,5,el Fort Pienc,Female,697
+5,2019,2,Eixample,6,la Sagrada Família,Female,1063
+6,2019,2,Eixample,7,la Dreta de l'Eixample,Female,839
+7,2019,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,875
+8,2019,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,1261
+9,2019,2,Eixample,10,Sant Antoni,Female,785
+10,2019,3,Sants-Montjuïc,11,el Poble Sec,Female,898
+11,2019,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,19
+12,2019,3,Sants-Montjuïc,13,la Marina de Port,Female,612
+13,2019,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,227
+14,2019,3,Sants-Montjuïc,15,Hostafrancs,Female,404
+15,2019,3,Sants-Montjuïc,16,la Bordeta,Female,418
+16,2019,3,Sants-Montjuïc,17,Sants - Badal,Female,615
+17,2019,3,Sants-Montjuïc,18,Sants,Female,1074
+18,2019,4,Les Corts,19,les Corts,Female,770
+19,2019,4,Les Corts,20,la Maternitat i Sant Ramon,Female,562
+20,2019,4,Les Corts,21,Pedralbes,Female,202
+21,2019,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,115
+22,2019,5,Sarrià-Sant Gervasi,23,Sarrià,Female,454
+23,2019,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,279
+24,2019,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,424
+25,2019,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,803
+26,2019,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,528
+27,2019,6,Gràcia,28,Vallcarca i els Penitents,Female,272
+28,2019,6,Gràcia,29,el Coll,Female,161
+29,2019,6,Gràcia,30,la Salut,Female,219
+30,2019,6,Gràcia,31,la Vila de Gràcia,Female,983
+31,2019,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,543
+32,2019,7,Horta-Guinardó,33,el Baix Guinardó,Female,428
+33,2019,7,Horta-Guinardó,34,Can Baró,Female,172
+34,2019,7,Horta-Guinardó,35,el Guinardó,Female,622
+35,2019,7,Horta-Guinardó,36,la Font d'en Fargues,Female,139
+36,2019,7,Horta-Guinardó,37,el Carmel,Female,547
+37,2019,7,Horta-Guinardó,38,la Teixonera,Female,227
+38,2019,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,120
+39,2019,7,Horta-Guinardó,40,Montbau,Female,91
+40,2019,7,Horta-Guinardó,41,la Vall d'Hebron,Female,102
+41,2019,7,Horta-Guinardó,42,la Clota,Female,8
+42,2019,7,Horta-Guinardó,43,Horta,Female,480
+43,2019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,404
+44,2019,8,Nou Barris,45,Porta,Female,509
+45,2019,8,Nou Barris,46,el Turó de la Peira,Female,329
+46,2019,8,Nou Barris,47,Can Peguera,Female,29
+47,2019,8,Nou Barris,48,la Guineueta,Female,236
+48,2019,8,Nou Barris,49,Canyelles,Female,75
+49,2019,8,Nou Barris,50,les Roquetes,Female,322
+50,2019,8,Nou Barris,51,Verdun,Female,216
+51,2019,8,Nou Barris,52,la Prosperitat,Female,446
+52,2019,8,Nou Barris,53,la Trinitat Nova,Female,163
+53,2019,8,Nou Barris,54,Torre Baró,Female,49
+54,2019,8,Nou Barris,55,Ciutat Meridiana,Female,243
+55,2019,8,Nou Barris,56,Vallbona,Female,31
+56,2019,9,Sant Andreu,57,la Trinitat Vella,Female,191
+57,2019,9,Sant Andreu,58,Baró de Viver,Female,48
+58,2019,9,Sant Andreu,59,el Bon Pastor,Female,277
+59,2019,9,Sant Andreu,60,Sant Andreu,Female,788
+60,2019,9,Sant Andreu,61,la Sagrera,Female,524
+61,2019,9,Sant Andreu,62,el Congrés i els Indians,Female,211
+62,2019,9,Sant Andreu,63,Navas,Female,363
+63,2019,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,713
+64,2019,10,Sant Martí,65,el Clot,Female,497
+65,2019,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,234
+66,2019,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,147
+67,2019,10,Sant Martí,68,el Poblenou,Female,580
+68,2019,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,222
+69,2019,10,Sant Martí,70,el Besòs i el Maresme,Female,630
+70,2019,10,Sant Martí,71,Provençals del Poblenou,Female,344
+71,2019,10,Sant Martí,72,Sant Martí de Provençals,Female,421
+72,2019,10,Sant Martí,73,la Verneda i la Pau,Female,479
+73,2019,1,Ciutat Vella,1,el Raval,Male,1333
+74,2019,1,Ciutat Vella,2,el Barri Gòtic,Male,696
+75,2019,1,Ciutat Vella,3,la Barceloneta,Male,412
+76,2019,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,609
+77,2019,2,Eixample,5,el Fort Pienc,Male,666
+78,2019,2,Eixample,6,la Sagrada Família,Male,924
+79,2019,2,Eixample,7,la Dreta de l'Eixample,Male,790
+80,2019,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,901
+81,2019,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,1133
+82,2019,2,Eixample,10,Sant Antoni,Male,802
+83,2019,3,Sants-Montjuïc,11,el Poble Sec,Male,996
+84,2019,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,18
+85,2019,3,Sants-Montjuïc,13,la Marina de Port,Male,554
+86,2019,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,226
+87,2019,3,Sants-Montjuïc,15,Hostafrancs,Male,388
+88,2019,3,Sants-Montjuïc,16,la Bordeta,Male,441
+89,2019,3,Sants-Montjuïc,17,Sants - Badal,Male,601
+90,2019,3,Sants-Montjuïc,18,Sants,Male,1102
+91,2019,4,Les Corts,19,les Corts,Male,723
+92,2019,4,Les Corts,20,la Maternitat i Sant Ramon,Male,542
+93,2019,4,Les Corts,21,Pedralbes,Male,223
+94,2019,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,105
+95,2019,5,Sarrià-Sant Gervasi,23,Sarrià,Male,392
+96,2019,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,249
+97,2019,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,390
+98,2019,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,662
+99,2019,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,452
+100,2019,6,Gràcia,28,Vallcarca i els Penitents,Male,223
+101,2019,6,Gràcia,29,el Coll,Male,124
+102,2019,6,Gràcia,30,la Salut,Male,226
+103,2019,6,Gràcia,31,la Vila de Gràcia,Male,831
+104,2019,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,533
+105,2019,7,Horta-Guinardó,33,el Baix Guinardó,Male,378
+106,2019,7,Horta-Guinardó,34,Can Baró,Male,171
+107,2019,7,Horta-Guinardó,35,el Guinardó,Male,553
+108,2019,7,Horta-Guinardó,36,la Font d'en Fargues,Male,140
+109,2019,7,Horta-Guinardó,37,el Carmel,Male,510
+110,2019,7,Horta-Guinardó,38,la Teixonera,Male,191
+111,2019,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,138
+112,2019,7,Horta-Guinardó,40,Montbau,Male,97
+113,2019,7,Horta-Guinardó,41,la Vall d'Hebron,Male,94
+114,2019,7,Horta-Guinardó,42,la Clota,Male,7
+115,2019,7,Horta-Guinardó,43,Horta,Male,463
+116,2019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,375
+117,2019,8,Nou Barris,45,Porta,Male,501
+118,2019,8,Nou Barris,46,el Turó de la Peira,Male,274
+119,2019,8,Nou Barris,47,Can Peguera,Male,19
+120,2019,8,Nou Barris,48,la Guineueta,Male,188
+121,2019,8,Nou Barris,49,Canyelles,Male,80
+122,2019,8,Nou Barris,50,les Roquetes,Male,309
+123,2019,8,Nou Barris,51,Verdun,Male,219
+124,2019,8,Nou Barris,52,la Prosperitat,Male,395
+125,2019,8,Nou Barris,53,la Trinitat Nova,Male,163
+126,2019,8,Nou Barris,54,Torre Baró,Male,59
+127,2019,8,Nou Barris,55,Ciutat Meridiana,Male,227
+128,2019,8,Nou Barris,56,Vallbona,Male,37
+129,2019,9,Sant Andreu,57,la Trinitat Vella,Male,254
+130,2019,9,Sant Andreu,58,Baró de Viver,Male,47
+131,2019,9,Sant Andreu,59,el Bon Pastor,Male,299
+132,2019,9,Sant Andreu,60,Sant Andreu,Male,802
+133,2019,9,Sant Andreu,61,la Sagrera,Male,459
+134,2019,9,Sant Andreu,62,el Congrés i els Indians,Male,229
+135,2019,9,Sant Andreu,63,Navas,Male,322
+136,2019,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,698
+137,2019,10,Sant Martí,65,el Clot,Male,450
+138,2019,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,254
+139,2019,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,137
+140,2019,10,Sant Martí,68,el Poblenou,Male,577
+141,2019,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,252
+142,2019,10,Sant Martí,70,el Besòs i el Maresme,Male,749
+143,2019,10,Sant Martí,71,Provençals del Poblenou,Male,367
+144,2019,10,Sant Martí,72,Sant Martí de Provençals,Male,379
+145,2019,10,Sant Martí,73,la Verneda i la Pau,Male,476
+0,2020,1,Ciutat Vella,1,el Raval,Female,898
+1,2020,1,Ciutat Vella,2,el Barri Gòtic,Female,456
+2,2020,1,Ciutat Vella,3,la Barceloneta,Female,319
+3,2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,530
+4,2020,2,Eixample,5,el Fort Pienc,Female,693
+5,2020,2,Eixample,6,la Sagrada Família,Female,979
+6,2020,2,Eixample,7,la Dreta de l'Eixample,Female,913
+7,2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,909
+8,2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,1272
+9,2020,2,Eixample,10,Sant Antoni,Female,718
+10,2020,3,Sants-Montjuïc,11,el Poble Sec,Female,811
+11,2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,13
+12,2020,3,Sants-Montjuïc,13,la Marina de Port,Female,539
+13,2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,235
+14,2020,3,Sants-Montjuïc,15,Hostafrancs,Female,357
+15,2020,3,Sants-Montjuïc,16,la Bordeta,Female,377
+16,2020,3,Sants-Montjuïc,17,Sants - Badal,Female,550
+17,2020,3,Sants-Montjuïc,18,Sants,Female,1022
+18,2020,4,Les Corts,19,les Corts,Female,861
+19,2020,4,Les Corts,20,la Maternitat i Sant Ramon,Female,511
+20,2020,4,Les Corts,21,Pedralbes,Female,248
+21,2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,99
+22,2020,5,Sarrià-Sant Gervasi,23,Sarrià,Female,503
+23,2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,331
+24,2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,494
+25,2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,908
+26,2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,662
+27,2020,6,Gràcia,28,Vallcarca i els Penitents,Female,288
+28,2020,6,Gràcia,29,el Coll,Female,143
+29,2020,6,Gràcia,30,la Salut,Female,249
+30,2020,6,Gràcia,31,la Vila de Gràcia,Female,1068
+31,2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,636
+32,2020,7,Horta-Guinardó,33,el Baix Guinardó,Female,449
+33,2020,7,Horta-Guinardó,34,Can Baró,Female,155
+34,2020,7,Horta-Guinardó,35,el Guinardó,Female,659
+35,2020,7,Horta-Guinardó,36,la Font d'en Fargues,Female,129
+36,2020,7,Horta-Guinardó,37,el Carmel,Female,550
+37,2020,7,Horta-Guinardó,38,la Teixonera,Female,203
+38,2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,137
+39,2020,7,Horta-Guinardó,40,Montbau,Female,75
+40,2020,7,Horta-Guinardó,41,la Vall d'Hebron,Female,74
+41,2020,7,Horta-Guinardó,42,la Clota,Female,7
+42,2020,7,Horta-Guinardó,43,Horta,Female,574
+43,2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,427
+44,2020,8,Nou Barris,45,Porta,Female,510
+45,2020,8,Nou Barris,46,el Turó de la Peira,Female,292
+46,2020,8,Nou Barris,47,Can Peguera,Female,16
+47,2020,8,Nou Barris,48,la Guineueta,Female,233
+48,2020,8,Nou Barris,49,Canyelles,Female,79
+49,2020,8,Nou Barris,50,les Roquetes,Female,262
+50,2020,8,Nou Barris,51,Verdun,Female,231
+51,2020,8,Nou Barris,52,la Prosperitat,Female,442
+52,2020,8,Nou Barris,53,la Trinitat Nova,Female,153
+53,2020,8,Nou Barris,54,Torre Baró,Female,33
+54,2020,8,Nou Barris,55,Ciutat Meridiana,Female,209
+55,2020,8,Nou Barris,56,Vallbona,Female,31
+56,2020,9,Sant Andreu,57,la Trinitat Vella,Female,190
+57,2020,9,Sant Andreu,58,Baró de Viver,Female,32
+58,2020,9,Sant Andreu,59,el Bon Pastor,Female,303
+59,2020,9,Sant Andreu,60,Sant Andreu,Female,832
+60,2020,9,Sant Andreu,61,la Sagrera,Female,475
+61,2020,9,Sant Andreu,62,el Congrés i els Indians,Female,237
+62,2020,9,Sant Andreu,63,Navas,Female,351
+63,2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,771
+64,2020,10,Sant Martí,65,el Clot,Female,503
+65,2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,252
+66,2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,160
+67,2020,10,Sant Martí,68,el Poblenou,Female,616
+68,2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,237
+69,2020,10,Sant Martí,70,el Besòs i el Maresme,Female,512
+70,2020,10,Sant Martí,71,Provençals del Poblenou,Female,362
+71,2020,10,Sant Martí,72,Sant Martí de Provençals,Female,384
+72,2020,10,Sant Martí,73,la Verneda i la Pau,Female,432
+73,2020,1,Ciutat Vella,1,el Raval,Male,1262
+74,2020,1,Ciutat Vella,2,el Barri Gòtic,Male,657
+75,2020,1,Ciutat Vella,3,la Barceloneta,Male,389
+76,2020,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,624
+77,2020,2,Eixample,5,el Fort Pienc,Male,673
+78,2020,2,Eixample,6,la Sagrada Família,Male,954
+79,2020,2,Eixample,7,la Dreta de l'Eixample,Male,914
+80,2020,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,888
+81,2020,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,1112
+82,2020,2,Eixample,10,Sant Antoni,Male,714
+83,2020,3,Sants-Montjuïc,11,el Poble Sec,Male,885
+84,2020,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,23
+85,2020,3,Sants-Montjuïc,13,la Marina de Port,Male,550
+86,2020,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,218
+87,2020,3,Sants-Montjuïc,15,Hostafrancs,Male,348
+88,2020,3,Sants-Montjuïc,16,la Bordeta,Male,375
+89,2020,3,Sants-Montjuïc,17,Sants - Badal,Male,547
+90,2020,3,Sants-Montjuïc,18,Sants,Male,1084
+91,2020,4,Les Corts,19,les Corts,Male,836
+92,2020,4,Les Corts,20,la Maternitat i Sant Ramon,Male,512
+93,2020,4,Les Corts,21,Pedralbes,Male,233
+94,2020,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,99
+95,2020,5,Sarrià-Sant Gervasi,23,Sarrià,Male,482
+96,2020,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,348
+97,2020,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,466
+98,2020,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,802
+99,2020,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,553
+100,2020,6,Gràcia,28,Vallcarca i els Penitents,Male,266
+101,2020,6,Gràcia,29,el Coll,Male,130
+102,2020,6,Gràcia,30,la Salut,Male,233
+103,2020,6,Gràcia,31,la Vila de Gràcia,Male,947
+104,2020,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,588
+105,2020,7,Horta-Guinardó,33,el Baix Guinardó,Male,447
+106,2020,7,Horta-Guinardó,34,Can Baró,Male,148
+107,2020,7,Horta-Guinardó,35,el Guinardó,Male,602
+108,2020,7,Horta-Guinardó,36,la Font d'en Fargues,Male,116
+109,2020,7,Horta-Guinardó,37,el Carmel,Male,511
+110,2020,7,Horta-Guinardó,38,la Teixonera,Male,190
+111,2020,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,124
+112,2020,7,Horta-Guinardó,40,Montbau,Male,71
+113,2020,7,Horta-Guinardó,41,la Vall d'Hebron,Male,78
+114,2020,7,Horta-Guinardó,42,la Clota,Male,15
+115,2020,7,Horta-Guinardó,43,Horta,Male,502
+116,2020,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,366
+117,2020,8,Nou Barris,45,Porta,Male,502
+118,2020,8,Nou Barris,46,el Turó de la Peira,Male,252
+119,2020,8,Nou Barris,47,Can Peguera,Male,26
+120,2020,8,Nou Barris,48,la Guineueta,Male,185
+121,2020,8,Nou Barris,49,Canyelles,Male,55
+122,2020,8,Nou Barris,50,les Roquetes,Male,249
+123,2020,8,Nou Barris,51,Verdun,Male,233
+124,2020,8,Nou Barris,52,la Prosperitat,Male,394
+125,2020,8,Nou Barris,53,la Trinitat Nova,Male,132
+126,2020,8,Nou Barris,54,Torre Baró,Male,37
+127,2020,8,Nou Barris,55,Ciutat Meridiana,Male,216
+128,2020,8,Nou Barris,56,Vallbona,Male,32
+129,2020,9,Sant Andreu,57,la Trinitat Vella,Male,224
+130,2020,9,Sant Andreu,58,Baró de Viver,Male,33
+131,2020,9,Sant Andreu,59,el Bon Pastor,Male,324
+132,2020,9,Sant Andreu,60,Sant Andreu,Male,843
+133,2020,9,Sant Andreu,61,la Sagrera,Male,456
+134,2020,9,Sant Andreu,62,el Congrés i els Indians,Male,202
+135,2020,9,Sant Andreu,63,Navas,Male,324
+136,2020,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,698
+137,2020,10,Sant Martí,65,el Clot,Male,479
+138,2020,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,270
+139,2020,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,162
+140,2020,10,Sant Martí,68,el Poblenou,Male,635
+141,2020,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,235
+142,2020,10,Sant Martí,70,el Besòs i el Maresme,Male,648
+143,2020,10,Sant Martí,71,Provençals del Poblenou,Male,395
+144,2020,10,Sant Martí,72,Sant Martí de Provençals,Male,339
+145,2020,10,Sant Martí,73,la Verneda i la Pau,Male,399
