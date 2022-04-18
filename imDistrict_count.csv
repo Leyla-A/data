@@ -1,11 +1,11 @@
-id,districtName,count
-0,Ciutat Vella,74789
-1,Eixample,109556
-2,Gràcia,40951
-3,Horta-Guinardó,45567
-4,Les Corts,25058
-5,Nou Barris,48224
-6,Sant Andreu,36839
-7,Sant Martí,72328
-8,Sants-Montjuïc,70308
-9,Sarrià-Sant Gervasi,40871
+districtName,count
+Ciutat Vella,74789
+Eixample,109556
+Gràcia,40951
+Horta-Guinardó,45567
+Les Corts,25058
+Nou Barris,48224
+Sant Andreu,36839
+Sant Martí,72328
+Sants-Montjuïc,70308
+Sarrià-Sant Gervasi,40871
