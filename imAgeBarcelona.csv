@@ -1,4 +1,4 @@
-districtName,5YearAge,year,neighborhoodName,count,Latitude_n,Longitude_n,Latitude_d,Longitude_d
+districtName,age,year,neighborhoodName,count,Latitude_n,Longitude_n,Latitude_d,Longitude_d
 Sant Andreu,0-4,2015,la Trinitat Vella,39,41.436938420308536,2.1902329330593058,41.43505454638585,2.1933091722750544
 Sant Andreu,0-4,2015,Baró de Viver,15,41.436938420308536,2.1902329330593058,41.43505454638585,2.1933091722750544
 Sant Andreu,0-4,2015,el Bon Pastor,36,41.436938420308536,2.1902329330593058,41.43505454638585,2.1933091722750544
