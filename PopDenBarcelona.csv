@@ -1,0 +1,439 @@
+year,neighborhoodName,density
+2015,Baró de Viver,114
+2015,Can Baró,243
+2015,Can Peguera,192
+2015,Canyelles,87
+2015,Ciutat Meridiana,294
+2015,Diagonal Mar i el Front Marítim del Poblenou,110
+2015,Horta,92
+2015,Hostafrancs,395
+2015,Montbau,25
+2015,Navas,529
+2015,Pedralbes,44
+2015,Porta,332
+2015,Provençals del Poblenou,196
+2015,Sant Andreu,313
+2015,Sant Antoni,484
+2015,Sant Genís dels Agudells,44
+2015,Sant Gervasi - Galvany,287
+2015,Sant Gervasi - la Bonanova,117
+2015,Sant Martí de Provençals,356
+2015,"Sant Pere, Santa Caterina i la Ribera",209
+2015,Sants,399
+2015,Sants - Badal,601
+2015,Sarrià,83
+2015,Torre Baró,17
+2015,Vallbona,23
+2015,Vallcarca i els Penitents,130
+2015,"Vallvidrera, el Tibidabo i les Planes",4
+2015,Verdun,539
+2015,Vilapicina i la Torre Llobeta,462
+2015,el Baix Guinardó,465
+2015,el Barri Gòtic,265
+2015,el Besòs i el Maresme,212
+2015,el Bon Pastor,73
+2015,el Camp d'en Grassot i Gràcia Nova,545
+2015,el Camp de l'Arpa del Clot,528
+2015,el Carmel,346
+2015,el Clot,388
+2015,el Coll,215
+2015,el Congrés i els Indians,360
+2015,el Fort Pienc,360
+2015,el Guinardó,287
+2015,el Parc i la Llacuna del Poblenou,142
+2015,el Poble Sec,88
+2015,el Poblenou,219
+2015,el Putxet i el Farró,357
+2015,el Raval,437
+2015,el Turó de la Peira,458
+2015,l'Antiga Esquerra de l'Eixample,350
+2015,la Barceloneta,128
+2015,la Bordeta,342
+2015,la Clota,40
+2015,la Dreta de l'Eixample,209
+2015,la Font d'en Fargues,145
+2015,la Font de la Guatlla,349
+2015,la Guineueta,252
+2015,la Marina de Port,247
+2015,la Marina del Prat Vermell,1
+2015,la Maternitat i Sant Ramon,125
+2015,la Nova Esquerra de l'Eixample,437
+2015,la Prosperitat,457
+2015,la Sagrada Família,501
+2015,la Sagrera,300
+2015,la Salut,208
+2015,la Teixonera,353
+2015,la Trinitat Nova,133
+2015,la Trinitat Vella,130
+2015,la Vall d'Hebron,79
+2015,la Verneda i la Pau,255
+2015,la Vila Olímpica del Poblenou,101
+2015,la Vila de Gràcia,385
+2015,les Corts,331
+2015,les Roquetes,255
+2015,les Tres Torres,211
+2016,Baró de Viver,114
+2016,Can Baró,243
+2016,Can Peguera,192
+2016,Canyelles,87
+2016,Ciutat Meridiana,294
+2016,Diagonal Mar i el Front Marítim del Poblenou,110
+2016,Horta,92
+2016,Hostafrancs,395
+2016,Montbau,25
+2016,Navas,529
+2016,Pedralbes,44
+2016,Porta,332
+2016,Provençals del Poblenou,196
+2016,Sant Andreu,313
+2016,Sant Antoni,484
+2016,Sant Genís dels Agudells,44
+2016,Sant Gervasi - Galvany,287
+2016,Sant Gervasi - la Bonanova,117
+2016,Sant Martí de Provençals,356
+2016,"Sant Pere, Santa Caterina i la Ribera",209
+2016,Sants,399
+2016,Sants - Badal,601
+2016,Sarrià,83
+2016,Torre Baró,17
+2016,Vallbona,23
+2016,Vallcarca i els Penitents,130
+2016,"Vallvidrera, el Tibidabo i les Planes",4
+2016,Verdun,539
+2016,Vilapicina i la Torre Llobeta,462
+2016,el Baix Guinardó,465
+2016,el Barri Gòtic,265
+2016,el Besòs i el Maresme,212
+2016,el Bon Pastor,73
+2016,el Camp d'en Grassot i Gràcia Nova,545
+2016,el Camp de l'Arpa del Clot,528
+2016,el Carmel,346
+2016,el Clot,388
+2016,el Coll,215
+2016,el Congrés i els Indians,360
+2016,el Fort Pienc,360
+2016,el Guinardó,287
+2016,el Parc i la Llacuna del Poblenou,142
+2016,el Poble Sec,88
+2016,el Poblenou,219
+2016,el Putxet i el Farró,357
+2016,el Raval,437
+2016,el Turó de la Peira,458
+2016,l'Antiga Esquerra de l'Eixample,350
+2016,la Barceloneta,128
+2016,la Bordeta,342
+2016,la Clota,40
+2016,la Dreta de l'Eixample,209
+2016,la Font d'en Fargues,145
+2016,la Font de la Guatlla,349
+2016,la Guineueta,252
+2016,la Marina de Port,247
+2016,la Marina del Prat Vermell,1
+2016,la Maternitat i Sant Ramon,125
+2016,la Nova Esquerra de l'Eixample,437
+2016,la Prosperitat,457
+2016,la Sagrada Família,501
+2016,la Sagrera,300
+2016,la Salut,208
+2016,la Teixonera,353
+2016,la Trinitat Nova,133
+2016,la Trinitat Vella,130
+2016,la Vall d'Hebron,79
+2016,la Verneda i la Pau,255
+2016,la Vila Olímpica del Poblenou,101
+2016,la Vila de Gràcia,385
+2016,les Corts,331
+2016,les Roquetes,255
+2016,les Tres Torres,211
+2017,Baró de Viver,110
+2017,Can Baró,234
+2017,Can Peguera,190
+2017,Canyelles,87
+2017,Ciutat Meridiana,291
+2017,Diagonal Mar i el Front Marítim del Poblenou,110
+2017,Horta,87
+2017,Hostafrancs,388
+2017,Montbau,25
+2017,Navas,523
+2017,Pedralbes,45
+2017,Porta,297
+2017,Provençals del Poblenou,185
+2017,Sant Andreu,311
+2017,Sant Antoni,479
+2017,Sant Genís dels Agudells,40
+2017,Sant Gervasi - Galvany,287
+2017,Sant Gervasi - la Bonanova,115
+2017,Sant Martí de Provençals,351
+2017,"Sant Pere, Santa Caterina i la Ribera",204
+2017,Sants,375
+2017,Sants - Badal,584
+2017,Sarrià,82
+2017,Torre Baró,16
+2017,Vallbona,23
+2017,Vallcarca i els Penitents,130
+2017,"Vallvidrera, el Tibidabo i les Planes",4
+2017,Verdun,520
+2017,Vilapicina i la Torre Llobeta,451
+2017,el Baix Guinardó,459
+2017,el Barri Gòtic,191
+2017,el Besòs i el Maresme,181
+2017,el Bon Pastor,67
+2017,el Camp d'en Grassot i Gràcia Nova,529
+2017,el Camp de l'Arpa del Clot,515
+2017,el Carmel,335
+2017,el Clot,389
+2017,el Coll,207
+2017,el Congrés i els Indians,347
+2017,el Fort Pienc,345
+2017,el Guinardó,279
+2017,el Parc i la Llacuna del Poblenou,136
+2017,el Poble Sec,87
+2017,el Poblenou,219
+2017,el Putxet i el Farró,348
+2017,el Raval,433
+2017,el Turó de la Peira,437
+2017,l'Antiga Esquerra de l'Eixample,343
+2017,la Barceloneta,114
+2017,la Bordeta,321
+2017,la Clota,34
+2017,la Dreta de l'Eixample,207
+2017,la Font d'en Fargues,143
+2017,la Font de la Guatlla,344
+2017,la Guineueta,249
+2017,la Marina de Port,244
+2017,la Marina del Prat Vermell,1
+2017,la Maternitat i Sant Ramon,126
+2017,la Nova Esquerra de l'Eixample,435
+2017,la Prosperitat,444
+2017,la Sagrada Família,490
+2017,la Sagrera,299
+2017,la Salut,205
+2017,la Teixonera,345
+2017,la Trinitat Nova,130
+2017,la Trinitat Vella,123
+2017,la Vall d'Hebron,79
+2017,la Verneda i la Pau,256
+2017,la Vila Olímpica del Poblenou,99
+2017,la Vila de Gràcia,382
+2017,les Corts,326
+2017,les Roquetes,243
+2017,les Tres Torres,211
+2018,Baró de Viver,110
+2018,Can Baró,235
+2018,Can Peguera,191
+2018,Canyelles,87
+2018,Ciutat Meridiana,281
+2018,Diagonal Mar i el Front Marítim del Poblenou,113
+2018,Horta,87
+2018,Hostafrancs,388
+2018,Montbau,25
+2018,Navas,521
+2018,Pedralbes,44
+2018,Porta,304
+2018,Provençals del Poblenou,189
+2018,Sant Andreu,309
+2018,Sant Antoni,473
+2018,Sant Genís dels Agudells,41
+2018,Sant Gervasi - Galvany,285
+2018,Sant Gervasi - la Bonanova,115
+2018,Sant Martí de Provençals,354
+2018,"Sant Pere, Santa Caterina i la Ribera",201
+2018,Sants,376
+2018,Sants - Badal,577
+2018,Sarrià,82
+2018,Torre Baró,17
+2018,Vallbona,23
+2018,Vallcarca i els Penitents,131
+2018,"Vallvidrera, el Tibidabo i les Planes",4
+2018,Verdun,523
+2018,Vilapicina i la Torre Llobeta,454
+2018,el Baix Guinardó,457
+2018,el Barri Gòtic,205
+2018,el Besòs i el Maresme,199
+2018,el Bon Pastor,68
+2018,el Camp d'en Grassot i Gràcia Nova,530
+2018,el Camp de l'Arpa del Clot,515
+2018,el Carmel,338
+2018,el Clot,387
+2018,el Coll,210
+2018,el Congrés i els Indians,346
+2018,el Fort Pienc,343
+2018,el Guinardó,281
+2018,el Parc i la Llacuna del Poblenou,136
+2018,el Poble Sec,86
+2018,el Poblenou,216
+2018,el Putxet i el Farró,348
+2018,el Raval,427
+2018,el Turó de la Peira,439
+2018,l'Antiga Esquerra de l'Eixample,343
+2018,la Barceloneta,136
+2018,la Bordeta,328
+2018,la Clota,36
+2018,la Dreta de l'Eixample,205
+2018,la Font d'en Fargues,143
+2018,la Font de la Guatlla,345
+2018,la Guineueta,250
+2018,la Marina de Port,242
+2018,la Marina del Prat Vermell,1
+2018,la Maternitat i Sant Ramon,125
+2018,la Nova Esquerra de l'Eixample,432
+2018,la Prosperitat,448
+2018,la Sagrada Família,493
+2018,la Sagrera,296
+2018,la Salut,204
+2018,la Teixonera,344
+2018,la Trinitat Nova,127
+2018,la Trinitat Vella,124
+2018,la Vall d'Hebron,77
+2018,la Verneda i la Pau,255
+2018,la Vila Olímpica del Poblenou,100
+2018,la Vila de Gràcia,379
+2018,les Corts,326
+2018,les Roquetes,244
+2018,les Tres Torres,211
+2019,Baró de Viver,113
+2019,Can Baró,239
+2019,Can Peguera,193
+2019,Canyelles,87
+2019,Ciutat Meridiana,287
+2019,Diagonal Mar i el Front Marítim del Poblenou,112
+2019,Horta,89
+2019,Hostafrancs,391
+2019,Montbau,25
+2019,Navas,523
+2019,Pedralbes,44
+2019,Porta,316
+2019,Provençals del Poblenou,193
+2019,Sant Andreu,310
+2019,Sant Antoni,476
+2019,Sant Genís dels Agudells,43
+2019,Sant Gervasi - Galvany,285
+2019,Sant Gervasi - la Bonanova,116
+2019,Sant Martí de Provençals,355
+2019,"Sant Pere, Santa Caterina i la Ribera",204
+2019,Sants,384
+2019,Sants - Badal,586
+2019,Sarrià,82
+2019,Torre Baró,17
+2019,Vallbona,23
+2019,Vallcarca i els Penitents,128
+2019,"Vallvidrera, el Tibidabo i les Planes",4
+2019,Verdun,528
+2019,Vilapicina i la Torre Llobeta,457
+2019,el Baix Guinardó,459
+2019,el Barri Gòtic,228
+2019,el Besòs i el Maresme,208
+2019,el Bon Pastor,70
+2019,el Camp d'en Grassot i Gràcia Nova,537
+2019,el Camp de l'Arpa del Clot,522
+2019,el Carmel,341
+2019,el Clot,388
+2019,el Coll,211
+2019,el Congrés i els Indians,354
+2019,el Fort Pienc,348
+2019,el Guinardó,283
+2019,el Parc i la Llacuna del Poblenou,138
+2019,el Poble Sec,87
+2019,el Poblenou,216
+2019,el Putxet i el Farró,349
+2019,el Raval,430
+2019,el Turó de la Peira,444
+2019,l'Antiga Esquerra de l'Eixample,345
+2019,la Barceloneta,136
+2019,la Bordeta,338
+2019,la Clota,38
+2019,la Dreta de l'Eixample,205
+2019,la Font d'en Fargues,144
+2019,la Font de la Guatlla,346
+2019,la Guineueta,251
+2019,la Marina de Port,244
+2019,la Marina del Prat Vermell,1
+2019,la Maternitat i Sant Ramon,124
+2019,la Nova Esquerra de l'Eixample,433
+2019,la Prosperitat,453
+2019,la Sagrada Família,493
+2019,la Sagrera,298
+2019,la Salut,206
+2019,la Teixonera,348
+2019,la Trinitat Nova,132
+2019,la Trinitat Vella,127
+2019,la Vall d'Hebron,78
+2019,la Verneda i la Pau,255
+2019,la Vila Olímpica del Poblenou,100
+2019,la Vila de Gràcia,379
+2019,les Corts,328
+2019,les Roquetes,251
+2019,les Tres Torres,211
+2020,Baró de Viver,114
+2020,Can Baró,243
+2020,Can Peguera,192
+2020,Canyelles,87
+2020,Ciutat Meridiana,294
+2020,Diagonal Mar i el Front Marítim del Poblenou,110
+2020,Horta,92
+2020,Hostafrancs,395
+2020,Montbau,25
+2020,Navas,529
+2020,Pedralbes,44
+2020,Porta,332
+2020,Provençals del Poblenou,196
+2020,Sant Andreu,313
+2020,Sant Antoni,484
+2020,Sant Genís dels Agudells,44
+2020,Sant Gervasi - Galvany,287
+2020,Sant Gervasi - la Bonanova,117
+2020,Sant Martí de Provençals,356
+2020,"Sant Pere, Santa Caterina i la Ribera",209
+2020,Sants,399
+2020,Sants - Badal,601
+2020,Sarrià,83
+2020,Torre Baró,17
+2020,Vallbona,23
+2020,Vallcarca i els Penitents,130
+2020,"Vallvidrera, el Tibidabo i les Planes",4
+2020,Verdun,539
+2020,Vilapicina i la Torre Llobeta,462
+2020,el Baix Guinardó,465
+2020,el Barri Gòtic,265
+2020,el Besòs i el Maresme,212
+2020,el Bon Pastor,73
+2020,el Camp d'en Grassot i Gràcia Nova,545
+2020,el Camp de l'Arpa del Clot,528
+2020,el Carmel,346
+2020,el Clot,388
+2020,el Coll,215
+2020,el Congrés i els Indians,360
+2020,el Fort Pienc,360
+2020,el Guinardó,287
+2020,el Parc i la Llacuna del Poblenou,142
+2020,el Poble Sec,88
+2020,el Poblenou,219
+2020,el Putxet i el Farró,357
+2020,el Raval,437
+2020,el Turó de la Peira,458
+2020,l'Antiga Esquerra de l'Eixample,350
+2020,la Barceloneta,128
+2020,la Bordeta,342
+2020,la Clota,40
+2020,la Dreta de l'Eixample,209
+2020,la Font d'en Fargues,145
+2020,la Font de la Guatlla,349
+2020,la Guineueta,252
+2020,la Marina de Port,247
+2020,la Marina del Prat Vermell,1
+2020,la Maternitat i Sant Ramon,125
+2020,la Nova Esquerra de l'Eixample,437
+2020,la Prosperitat,457
+2020,la Sagrada Família,501
+2020,la Sagrera,300
+2020,la Salut,208
+2020,la Teixonera,353
+2020,la Trinitat Nova,133
+2020,la Trinitat Vella,130
+2020,la Vall d'Hebron,79
+2020,la Verneda i la Pau,255
+2020,la Vila Olímpica del Poblenou,101
+2020,la Vila de Gràcia,385
+2020,les Corts,331
+2020,les Roquetes,255
+2020,les Tres Torres,211
